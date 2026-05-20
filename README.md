@@ -1,6 +1,6 @@
 # SkillSwap
 
-Platform pertukaran keterampilan berbasis website untuk kolaborasi dan pengembangan skill.
+SkillSwap merupakan platform berbasis website yang memungkinkan pengguna untuk saling bertukar keterampilan tanpa menggunakan uang sebagai alat transaksi utama. Platform ini dirancang untuk membantu generasi muda mengembangkan kemampuan, membangun kolaborasi, serta memperoleh skill baru melalui sistem pertukaran keterampilan yang mudah, fleksibel, dan inklusif. SkillSwap mendukung SDG 8 dengan membuka peluang pengembangan skill dan kolaborasi digital tanpa batas finansial.
 
 ## 👥 Team
 - Andika Candra Kurniawan
