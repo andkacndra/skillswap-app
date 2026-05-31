@@ -9,6 +9,8 @@ SkillSwap merupakan platform berbasis website yang memungkinkan pengguna untuk s
 
 ## 🎨 UI/UX Design
 
+<img width="1919" height="907" alt="Screenshot 2026-05-31 161419" src="https://github.com/user-attachments/assets/36d14fc2-1fdb-425b-a71f-0893c9b8a2ae" />
+
 Link Desain :
 https://www.figma.com/design/S3rYTVu5Sev6TD91El6ZsL/SkillSwap-App?node-id=0-1&t=CZgczjz8QSy0QPdA-1
 
